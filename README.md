@@ -29,13 +29,10 @@ Here is some informations about me
 <a href="https://discord.com/users/619430755071819776" align="left">
 <img src="https://dsc-readme.tsuni.dev/api/user/619430755071819776?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512" />
 </a>
-<div align="right">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
-
-###
-
-<div align="right">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="52" height="40" alt="wechat logo"  />
 </div>
 
