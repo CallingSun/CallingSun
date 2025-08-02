@@ -4,6 +4,7 @@ Here is some informations about me
 
 ## I code with
 <div align="center">
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
@@ -14,6 +15,7 @@ Here is some informations about me
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
+  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
@@ -30,10 +32,12 @@ Here is some informations about me
 <img src="https://dsc-readme.tsuni.dev/api/user/619430755071819776?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512" />
 </a>
 <div align="left">
+<a href= "https://www.facebook.com/hoanpham256">  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
-<div align="left">
+</a>
+<a> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="52" height="40" alt="wechat logo"  />
+</a>
 </div>
 
 ###
